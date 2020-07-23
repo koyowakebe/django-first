@@ -1,0 +1,16 @@
+#top-add-btn {
+  margin-right: 0px;
+  margin-left: auto;
+  display: inline-block;
+  float: right;
+}
+
+.above-table {
+  margin-bottom: 16px;
+  height: auto;
+  overflow: hidden;
+}
+
+#edit-back-btn {
+  margin-left: 15px;
+}
